@@ -1,0 +1,14 @@
+#mycan{
+
+    background-color: rgb(255, 255, 255);
+    border-width: 10px;
+    border-style: ridge;
+    border-color: black;
+}
+
+.back{
+    background-image: url("watercolor2.png");
+    background-position: center;
+    background-size: cover;
+}
+
